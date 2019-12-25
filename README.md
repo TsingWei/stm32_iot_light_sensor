@@ -26,7 +26,7 @@
 ## 设备端
 
 ### 设备总览
-![all](./image/all.jpg)  
+![all](./image/device.jpg)  
 ### 业务逻辑
 MQTT各主题:
 
