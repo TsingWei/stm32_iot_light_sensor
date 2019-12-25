@@ -14,7 +14,7 @@
 
 ## 架构
 
-![架构](./image/架构.png)
+![架构](./image/framework.png)
 1. MQTT Broker使用emqx
 2. 前端使用mqtt.js通过Websocket连接Broker
 3. 设备通过MQTT协议连接Broker
