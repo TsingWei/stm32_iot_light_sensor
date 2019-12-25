@@ -1,0 +1,8 @@
+#ifndef _WIFI_CREDENTIALS_H
+#define _WIFI_CREDENTIALS_H
+
+#define WIFI_AP_SSID "SUSTC-Wifi"
+#define WIFI_AP_PASS "12345678"
+#define SERVER_ADDR ("10.21.100.203")
+
+#endif

@@ -1,0 +1,10 @@
+.pio
+.vscode/
+.settings/
+*.elf
+Drivers/
+Debug/
+Release/
+Startup/
+report/
+*.ld
